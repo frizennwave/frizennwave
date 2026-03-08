@@ -1,12 +1,7 @@
 <div align="center">
 
 ```
-███████╗██████╗ ██╗███████╗███████╗███████╗███╗   ██╗
-██╔════╝██╔══██╗██║╚══███╔╝╚══███╔╝██╔════╝████╗  ██║
-█████╗  ██████╔╝██║  ███╔╝   ███╔╝ █████╗  ██╔██╗ ██║
-██╔══╝  ██╔══██╗██║ ███╔╝   ███╔╝  ██╔══╝  ██║╚██╗██║
-██║     ██║  ██║██║███████╗███████╗███████╗██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=frizennwave&fontSize=60&fontColor=61dafb&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20MERN%20Stack&descAlignY=60&descColor=ffffff)
 ```
 
 # Hey, I'm Rifki 👋
