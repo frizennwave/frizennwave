@@ -74,14 +74,9 @@ const rifki = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=frizennwave&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frizennwave&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=frizennwave&theme=tokyonight)
+[![GitHub followers](https://img.shields.io/github/followers/frizennwave?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/frizennwave)
+[![GitHub User's stars](https://img.shields.io/github/stars/frizennwave?label=Total%20Stars&style=for-the-badge&color=f7c948)](https://github.com/frizennwave)
+[![Profile Views](https://komarev.com/ghpvc/?username=frizennwave&style=for-the-badge&color=brightgreen&label=Profile+Views)](https://github.com/frizennwave)
 
 </div>
 
@@ -105,7 +100,5 @@ const rifki = {
 <div align="center">
 
 **Thanks for visiting! Drop a ⭐ if you find something useful.**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=frizennwave&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
