@@ -24,6 +24,7 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
 ## 🧑‍💻 About Me
  
 ```php
+
 $hanif = [
   "name"         => "Mohamad Rifki Hanifudin",
   "alias"        => "frizennwave",
@@ -33,6 +34,7 @@ $hanif = [
   "currentFocus" => "Building scalable web applications with Laravel & PostgreSQL",
   "funFact"      => "I debug with dd() and I'm not ashamed 😅"
 ];
+
 ```
  
 ---
@@ -40,6 +42,7 @@ $hanif = [
 ## 🛠️ Tech Stack
  
 <div align="center">
+
 **Frontend**
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,16 +68,21 @@ $hanif = [
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
 </div>
+
 ---
  
 ## 📊 GitHub Stats
  
 <div align="center">
+
 [![GitHub followers](https://img.shields.io/github/followers/frizennwave?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/frizennwave)
+
 [![GitHub User's stars](https://img.shields.io/github/stars/frizennwave?label=Total%20Stars&style=for-the-badge&color=f7c948)](https://github.com/frizennwave)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=frizennwave&style=for-the-badge&color=brightgreen&label=Profile+Views)](https://github.com/frizennwave)
  
 </div>
+
 ---
  
 ## 🚀 What I'm Up To
@@ -83,6 +91,7 @@ $hanif = [
 - 🌱 Exploring **Eloquent ORM**, **Laravel API**, and **REST API** best practices
 - 💡 Always learning something new in the world of web development
 - 🤝 Open to **collaborations** and **open source contributions**
+
 ---
  
 ## 🌊 The Wave Philosophy
