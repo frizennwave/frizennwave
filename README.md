@@ -12,6 +12,8 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
                                                                                                
 ```
 
+</div>
+
 # Hey, I'm Hanif 👋
 **Programmer · Laravel Enthusiast · Code & Coffee ☕**
 > *"Building ideas into reality, one commit at a time."*
@@ -80,8 +82,8 @@ $hanif = [
 [![GitHub User's stars](https://img.shields.io/github/stars/frizennwave?label=Total%20Stars&style=for-the-badge&color=f7c948)](https://github.com/frizennwave)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=frizennwave&style=for-the-badge&color=brightgreen&label=Profile+Views)](https://github.com/frizennwave)
- 
-</div>
+
+</div> 
 
 ---
  
