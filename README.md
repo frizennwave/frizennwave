@@ -23,7 +23,8 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
  
 ## 🧑‍💻 About Me
 
-<div align="left">
+<div align="center">
+    <div align="left">
 
 ```php
 
@@ -39,6 +40,7 @@ $hanif = [
 
 ```
 
+    </div>
 </div>
  
 ---
@@ -89,13 +91,17 @@ $hanif = [
 </div> 
 
 ---
- 
+
+</div align="left">
+
 ## 🚀 What I'm Up To
  
 - 🔭 Currently working on **full stack web projects** with Laravel & PostgreSQL
 - 🌱 Exploring **Eloquent ORM**, **Laravel API**, and **REST API** best practices
 - 💡 Always learning something new in the world of web development
 - 🤝 Open to **collaborations** and **open source contributions**
+
+</div>
 
 ---
  
