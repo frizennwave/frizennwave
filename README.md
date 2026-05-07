@@ -23,7 +23,7 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
  
 ## 🧑‍💻 About Me
 
-<div align="center">
+<div align="left">
 
 ```php
 
