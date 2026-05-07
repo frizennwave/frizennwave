@@ -12,8 +12,6 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
                                                                                                
 ```
 
-</div>
-
 # Hey, I'm Hanif 👋
 **Programmer · Laravel Enthusiast · Code & Coffee ☕**
 > *"Building ideas into reality, one commit at a time."*
@@ -71,17 +69,18 @@ $hanif = [
  
 </div>
 
----
- 
-## 📊 GitHub Stats
+--- 
  
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/frizennwave?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/frizennwave)
-
-[![GitHub User's stars](https://img.shields.io/github/stars/frizennwave?label=Total%20Stars&style=for-the-badge&color=f7c948)](https://github.com/frizennwave)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=frizennwave&style=for-the-badge&color=brightgreen&label=Profile+Views)](https://github.com/frizennwave)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/frizennwave/frizennwave/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/frizennwave/frizennwave/output/github-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/frizennwave/frizennwave/output/github-snake.svg" />
+</picture>
 
 </div> 
 
