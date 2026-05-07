@@ -24,7 +24,6 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
 ## 🧑‍💻 About Me
 
 <div align="center">
-    <div align="left">
 
 ```php
 
@@ -40,7 +39,6 @@ $hanif = [
 
 ```
 
-    </div>
 </div>
  
 ---
@@ -92,7 +90,7 @@ $hanif = [
 
 ---
 
-</div align="left">
+<div align="left">
 
 ## 🚀 What I'm Up To
  
