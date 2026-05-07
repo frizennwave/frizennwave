@@ -22,7 +22,9 @@ eeeeee.eeeeeee..eee.eeeeeeee.eeeeee.eeeeeee..eeeeeee..eee..eee..eee..eeeeee..eee
 ---
  
 ## 🧑‍💻 About Me
- 
+
+<div align="left">
+
 ```php
 
 $hanif = [
@@ -36,6 +38,8 @@ $hanif = [
 ];
 
 ```
+
+</div>
  
 ---
  
